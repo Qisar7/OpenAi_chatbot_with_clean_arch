@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Alt text](/home/abo/Downloads/Screenshot_20230211-192809_1.png)
+![spalsh screen](home/abo/Downloads/Screenshot_20230211-192809_1.png)
 
 This project is a starting point for a Flutter application.
 
